@@ -2,7 +2,7 @@
 
 | Informasi | Detail |
 | :--- | :--- |
-| **Nama** | Helmy Afriza Taufiqurohman |
-| **NPM** | 2514101070 |
+| **Nama** | Muhamad Hoerul Ihwana |
+| **NPM** | 2514101024 |
 | **Fakultas** | Teknik |
 | **Program Studi** | Informatika |
